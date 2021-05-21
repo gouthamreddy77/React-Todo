@@ -17,7 +17,7 @@ import Todoapp from "./myfunccomp/Todoapp"
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
         <Todoapp/>
     </Router>  
   </React.StrictMode>, 
