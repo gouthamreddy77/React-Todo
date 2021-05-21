@@ -1,7 +1,7 @@
 import React from "react"
 import ReactDOM from "react-dom"
 
-import { BrowserRouter as Router } from "react-router-dom";
+import { HashRouter  as Router } from "react-router-dom";
 
 //component
 // import TodoContainer from "./functionBased/components/TodoContainer"
@@ -17,7 +17,7 @@ import Todoapp from "./myfunccomp/Todoapp"
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
         <Todoapp/>
     </Router>  
   </React.StrictMode>, 
