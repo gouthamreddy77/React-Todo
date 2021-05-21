@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gouthamreddy77.github.io/React-Todo/static/css/main.6c37d745.chunk.css",
+    "main.js": "/gouthamreddy77.github.io/React-Todo/static/js/main.871e8c2f.chunk.js",
+    "main.js.map": "/gouthamreddy77.github.io/React-Todo/static/js/main.871e8c2f.chunk.js.map",
+    "runtime-main.js": "/gouthamreddy77.github.io/React-Todo/static/js/runtime-main.ff573b16.js",
+    "runtime-main.js.map": "/gouthamreddy77.github.io/React-Todo/static/js/runtime-main.ff573b16.js.map",
+    "static/js/2.db163b34.chunk.js": "/gouthamreddy77.github.io/React-Todo/static/js/2.db163b34.chunk.js",
+    "static/js/2.db163b34.chunk.js.map": "/gouthamreddy77.github.io/React-Todo/static/js/2.db163b34.chunk.js.map",
+    "index.html": "/gouthamreddy77.github.io/React-Todo/index.html",
+    "static/css/main.6c37d745.chunk.css.map": "/gouthamreddy77.github.io/React-Todo/static/css/main.6c37d745.chunk.css.map",
+    "static/js/2.db163b34.chunk.js.LICENSE.txt": "/gouthamreddy77.github.io/React-Todo/static/js/2.db163b34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff573b16.js",
+    "static/js/2.db163b34.chunk.js",
+    "static/css/main.6c37d745.chunk.css",
+    "static/js/main.871e8c2f.chunk.js"
+  ]
+}
